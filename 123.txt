@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ijsidfjoasdifjpaosdjf
 asdofoiasjfopijaspdf
 opajsdofijasoid[fj
@@ -15,3 +16,5 @@ Stroka 1
 =======
 >>>>>>> 8250d8d3cd2d894e47ad6068fde06730cafc2924
 >>>>>>> 166d12db83d97b5f2e21c83818ee9de715303e2d
+=======
+>>>>>>> parent of e00342d... 123
