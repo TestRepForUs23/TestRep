@@ -3,4 +3,9 @@ asdofoiasjfopijaspdf
 opajsdofijasoid[fj
 a[iosdjf[jas[odifj
 ]
+<<<<<<< HEAD
 строка 2
+=======
+
+Stroka 1
+>>>>>>> 8250d8d3cd2d894e47ad6068fde06730cafc2924
