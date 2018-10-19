@@ -5,16 +5,8 @@ asdofoiasjfopijaspdf
 opajsdofijasoid[fj
 a[iosdjf[jas[odifj
 ]
-<<<<<<< HEAD
+
 строка 2
-=======
+
 
 Stroka 1
-<<<<<<< HEAD
-=======
->>>>>>> parent of e00342d... 123
-=======
->>>>>>> 8250d8d3cd2d894e47ad6068fde06730cafc2924
->>>>>>> 166d12db83d97b5f2e21c83818ee9de715303e2d
-=======
->>>>>>> parent of e00342d... 123
